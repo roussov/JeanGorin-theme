@@ -70,7 +70,7 @@ JeanGorin-theme/
 
 ### 1. Télécharger le template
 
-- Soit via [Code > Download ZIP](https://github.com/roussov/JeanGorin-theme)
+- Soit via [Code > Download ZIP dernière version:](https://github.com/roussov/JeanGorin-theme/tags)
 - Soit via Git :
 ```bash
 git clone https://github.com/roussov/JeanGorin-theme.git
